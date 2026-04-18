@@ -73,11 +73,8 @@
 ## 🤝 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/harsh-thakare-453ba9229">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" />
   </a>
 </p>
 
