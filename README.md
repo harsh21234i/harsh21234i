@@ -68,11 +68,7 @@
 - Contributions across **10+ repositories**
 - Active in the **Giskard** and **Kestra** ecosystems
 
-### Selected Contributions
 
-- **Giskard**: [PR #2411](https://github.com/Giskard-AI/giskard-oss/pull/2411)
-- **Giskard**: [PR #2409](https://github.com/Giskard-AI/giskard-oss/pull/2409)
-- **Kestra**: active contributor, link to a merged PR can be added once you want it featured here
 
 ---
 
