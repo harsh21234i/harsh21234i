@@ -101,7 +101,7 @@ Backend system for logistics, ride planning, and shared mobility flows.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh21234i&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harsh21234i&theme=tokyonight" alt="GitHub stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harsh21234i&theme=tokyonight&utcOffset=5.5" alt="Productive time" height="170" />
 </p>
 
 <p align="center">
