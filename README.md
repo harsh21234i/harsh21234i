@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-thakare-453ba9229">LinkedIn</a> |
   <a href="https://github.com/harsh21234i">GitHub</a> |
-  <a href="https://www.instagram.com/harsh_45_thakare?igsh=Y2RmeWtoczY3dnlu">Instagram</a>
+  <a href="https://github.com/harsh21234i/MoveSaathi">MoveSaathi</a>
 </p>
 
 ---
@@ -31,6 +31,12 @@
 - Active open source contributor in projects like **Giskard** and **Kestra**
 - Building **MoveSaathi**, a backend platform for delivery and mobility workflows
 - Interested in **AI/ML systems**, **developer tooling**, and **scalable service design**
+
+### Highlights
+
+- GitHub achievements: **Pull Shark** and **Pair Extraordinaire**
+- Public profile tagline: backend developer building FastAPI-based systems
+- Focused on practical engineering over portfolio-only projects
 
 ---
 
@@ -66,7 +72,7 @@
 
 - **Giskard**: [PR #2411](https://github.com/Giskard-AI/giskard-oss/pull/2411)
 - **Giskard**: [PR #2409](https://github.com/Giskard-AI/giskard-oss/pull/2409)
-- **Kestra**: add your merged PR link here
+- **Kestra**: active contributor, link to a merged PR can be added once you want it featured here
 
 ---
 
@@ -79,6 +85,15 @@ Backend system for logistics, ride planning, and shared mobility flows.
 - Built with a backend-first approach
 - Focused on scalability, API design, and real-world execution flows
 - Developed with **FastAPI** and database-backed services
+- Repository: [harsh21234i/MoveSaathi](https://github.com/harsh21234i/MoveSaathi)
+
+---
+
+## What I Value
+
+- Shipping code that solves real problems
+- Learning through open source reviews and production constraints
+- Writing backend systems that stay maintainable as they grow
 
 ---
 
@@ -112,4 +127,3 @@ Backend system for logistics, ride planning, and shared mobility flows.
 ## Philosophy
 
 > Build real systems. Contribute to real code. Keep improving.
-
