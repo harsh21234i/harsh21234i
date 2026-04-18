@@ -11,11 +11,11 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently contributing to **Giskard OSS (LLM Testing Platform)**
-- 🧠 Working with **Python, Backend Systems, AI/ML Tools**
-- ⚡ Building: **Moovesaathi (Shared Mobility Platform)**
-- 🎯 Goal: Crack a strong backend/AI role via OSS + skills
-- 💬 Ask me about: **Python, APIs, AI tools, Open Source**
+- 🔭 Contributing to **Giskard (LLM Testing)** & **Kestra (Workflow Orchestration)**
+- 🧠 Working on **Python backend systems & AI/ML tooling**
+- ⚡ Building **Moovesaathi** – shared mobility platform
+- 🎯 Focused on **scalable backend + real-world OSS systems**
+- 💬 Ask me about **APIs, FastAPI, OSS, AI tooling**
 
 ---
 
@@ -29,11 +29,23 @@
 
 ## 🔥 Open Source Contributions
 
-- 🚀 Active contributor at **Giskard-AI/giskard-oss**
-- ✅ Opened multiple PRs (Type handling, checks, improvements)
-- 🧠 Exploring **LLM evaluation, embeddings, model reliability**
+### 🚀 Giskard (LLM Evaluation Platform)
+- ✅ Multiple PRs improving **type handling & checks system**
+- 🧠 Worked on **model evaluation & reliability tooling**
 
-👉 *Consistently contributing and learning from real-world systems*
+### ⚡ Kestra (Workflow Orchestration Platform)
+- 🔧 Contributing to **backend features & improvements**
+- 🧠 Exploring **event-driven systems & scheduling**
+
+👉 Actively contributing to **production-grade OSS systems**
+
+---
+
+## 🔗 Highlight Contributions
+
+- 🧠 Giskard PR: https://github.com/Giskard-AI/giskard-oss/pull/2411  
+- 🧠 Giskard PR: https://github.com/Giskard-AI/giskard-oss/pull/2409  
+- ⚡ Kestra Contribution: (add your PR/issue link)
 
 ---
 
@@ -64,12 +76,12 @@
 ## 🚀 Projects
 
 ### 🔹 Moovesaathi (Shared Mobility Platform)
-- 🧭 Plan rides, publish seats, connect passengers
-- ⚡ Full-stack backend system
-- 🔗 Focus on real-time interactions & smooth UX
+- 🧭 Plan rides, publish seats, and connect passengers
+- ⚡ Backend system built with focus on scalability
+- 🔗 Working towards real-time ride coordination
 
 ---
 
 ## ⚡ Fun Fact
 
-> I believe consistency + real-world contributions beat just solving problems.
+> I focus on building real systems + contributing to OSS instead of just solving problems.
