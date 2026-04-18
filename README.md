@@ -61,6 +61,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh21234i&layout=compact&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harsh21234i&theme=default" />
+</p>
 ---
 
 ## 📈 Contribution Graph
