@@ -100,8 +100,8 @@ Backend system for logistics, ride planning, and shared mobility flows.
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh21234i&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh21234i&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harsh21234i&theme=tokyonight" alt="GitHub stats" height="170" />
 </p>
 
 <p align="center">
