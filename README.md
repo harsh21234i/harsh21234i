@@ -9,13 +9,11 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 What I'm Doing
 
 - 🔭 Contributing to **Giskard (LLM Testing)** & **Kestra (Workflow Orchestration)**
-- 🧠 Working on **Python backend systems & AI/ML tooling**
-- ⚡ Building **Moovesaathi** – shared mobility platform
-- 🎯 Focused on **scalable backend + real-world OSS systems**
-- 💬 Ask me about **APIs, FastAPI, OSS, AI tooling**
+- ⚡ Building **Moovesaathi** – shared mobility backend system
+- 🧠 Working on **scalable APIs & AI/ML tooling**
 
 ---
 
@@ -27,60 +25,48 @@
 
 ---
 
-## 🔥 Open Source Contributions
+## 🔥 Open Source Impact
 
-### 🚀 Giskard (LLM Evaluation Platform)
-- ✅ Multiple PRs improving **type handling & checks system**
-- 🧠 Worked on **model evaluation & reliability tooling**
+- 🚀 **50+ Pull Requests** across OSS
+- 📦 Contributed to **10+ repositories**
+- ⚡ Active in **Giskard & Kestra ecosystems**
 
-### ⚡ Kestra (Workflow Orchestration Platform)
-- 🔧 Contributing to **backend features & improvements**
-- 🧠 Exploring **event-driven systems & scheduling**
-
-👉 Actively contributing to **production-grade OSS systems**
-
----
-
-## 🔗 Highlight Contributions
-
-- 🧠 Giskard PR: https://github.com/Giskard-AI/giskard-oss/pull/2411  
-- 🧠 Giskard PR: https://github.com/Giskard-AI/giskard-oss/pull/2409  
-- ⚡ Kestra Contribution: (add your PR/issue link)
+### 🔗 Key Contributions
+- Giskard PR: https://github.com/Giskard-AI/giskard-oss/pull/2411  
+- Giskard PR: https://github.com/Giskard-AI/giskard-oss/pull/2409  
+- Kestra Contribution: (add your link)
 
 ---
-## 📊 GitHub Stats
+
+## 📊 Activity Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh21234i&show_icons=true&theme=tokyonight&hide=stars" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harsh21234i&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh21234i&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh21234i&layout=compact&theme=tokyonight" />
-</p>
+---
+
+## 📌 Real Contribution Stats
+
+- ⚡ **145+ Total Contributions**
+- 🔁 **50+ PRs merged**
+- 📦 **10+ repositories contributed**
 
 ---
 
-## 📈 Contribution Graph
+## 🚀 Project Highlight
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh21234i&theme=tokyo-night" />
-</p>
-
----
-
-## 🚀 Projects
-
-### 🔹 Moovesaathi (Shared Mobility Platform)
-- 🧭 Plan rides, publish seats, and connect passengers
-- ⚡ Backend system built with focus on scalability
-- 🔗 Working towards real-time ride coordination
+### 🔹 Moovesaathi
+- 🧭 Ride planning & seat-sharing platform
+- ⚡ Backend focused on scalability & real-time flow
+- 🛠 Built using FastAPI, DB systems
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Philosophy
 
-> I focus on building real systems + contributing to OSS instead of just solving problems.
+> Build real systems. Contribute to real code. Stay consistent.
