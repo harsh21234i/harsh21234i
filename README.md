@@ -65,7 +65,6 @@
 
 - **50+ pull requests** across open source projects
 - Contributions across **10+ repositories**
-- Active in the **Giskard** and **Kestra** ecosystems
 
 
 
