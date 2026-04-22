@@ -28,7 +28,6 @@
 ## About
 
 - Backend developer focused on APIs, workflow systems, and production-grade engineering
-- Active open source contributor in projects like **Giskard** and **Kestra**
 - Building **MoveSaathi**, a backend platform for delivery and mobility workflows
 - Interested in **AI/ML systems**, **developer tooling**, and **scalable service design**
 
