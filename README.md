@@ -17,6 +17,16 @@
   </a>
 </p>
 
+---
+
+## GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harsh21234i&theme=onedark&no-frame=true&margin-w=5&margin-h=5&row=1" alt="GitHub trophies" />
+</p>
+
+---
+
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-thakare-453ba9229">LinkedIn</a> |
   <a href="https://github.com/harsh21234i">GitHub</a> |
