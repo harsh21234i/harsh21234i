@@ -1,146 +1,216 @@
- <h1 align="center">Hi, I'm Harsh Thakare</h1>
-  <h3 align="center">Backend Engineer | Python | FastAPI | Open Source Contributor</h3>
+<div align="center">
 
-  <p align="center">
-    I build scalable backend systems, design clean APIs, and solve real engineering problems with practical,
-    maintainable software.
-  </p>
+# Hi 👋 I'm Harsh Thakare
 
-  <p align="center">
-    <a href="https://github.com/harsh21234i">
-      <img src="https://komarev.com/ghpvc/?username=harsh21234i&label=Profile%20Views&color=0e75b6&style=flat"
-      alt="Profile Views" />
-    </a>
-    <a href="https://github.com/harsh21234i?tab=followers">
-      <img src="https://img.shields.io/github/followers/harsh21234i?label=Followers&style=flat&color=1f6feb"
-      alt="Followers" />
-    </a>
-    <a href="mailto:harshthakare576@gmail.com">
-      <img src="https://img.shields.io/badge/Email-harshthakare576%40gmail.com-D14836?
-      style=flat&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+### Backend Engineer • Python • FastAPI • Open Source Contributor
 
-  <p align="center">
-    <a href="https://github.com/harsh21234i">
-      <img src="https://readme-typing-svg.herokuapp.com?
-      font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Backend+Engineer;FastAPI+
-      %7C+Python+%7C+System+Design;Open+Source+Contributor;Building+Real+Systems" alt="Typing SVG" />
-    </a>
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Engineer;Python+%7C+FastAPI+%7C+System+Design;Open+Source+Contributor;Building+Scalable+Backend+Systems;Always+Learning+Something+New" />
 
-  ---
+<p>
+<a href="mailto:harshthakare576@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/harsh-thakare-453ba9229"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/harsh21234i"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-  ## About Me
+<img src="https://komarev.com/ghpvc/?username=harsh21234i&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/harsh21234i?style=flat&label=Followers"/>
+<img src="https://img.shields.io/github/stars/harsh21234i?affiliations=OWNER&style=flat&label=Stars"/>
 
-  I'm a backend engineer focused on building reliable systems, scalable APIs, and practical software products.
+</div>
 
-  - Building **MoveSaathi**
-  - Working with **Python**, **FastAPI**, and backend architecture
-  - Interested in **System Design**, **AI Engineering**, and **Developer Tools**
-  - Focused on clean code, performance, and maintainable systems
-  - Active in open source and real product development
+---
 
-  ---
+# 👨‍💻 About Me
 
-  ## Current Focus
+I'm a backend engineer passionate about designing scalable APIs, backend systems, and developer tools.
 
-  - Building production-ready backend applications
-  - Designing clean and scalable APIs
-  - Learning distributed systems and architecture patterns
-  - Exploring practical AI integrations in software products
+I enjoy solving real engineering problems through clean architecture, maintainable code, and open-source collaboration.
 
-  ---
+Currently, I'm focused on backend engineering, system design, AI-powered applications, and contributing to production-quality open-source projects.
 
-  ## Tech Stack
+---
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?
-    i=python,java,fastapi,flask,django,postgres,mongodb,docker,git,github,linux,bash,vscode,postman" alt="Tech Stack" />
-  </p>
+# 🚀 What I'm Working On
 
-  ---
+- 🚚 Building **MoveSaathi**
+- 🌍 Contributing to Open Source
+- ⚡ Designing scalable backend APIs
+- 🧠 Learning Distributed Systems
+- 🤖 Exploring AI Engineering
+- ☁️ Improving Cloud & Backend Architecture skills
 
-  ## GitHub Stats
+---
 
-  <p align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?
-    username=harsh21234i&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?
-    user=harsh21234i&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
+# 🛠 Tech Stack
 
-  ---
+## Languages
 
-  ## Languages
+<p>
 
-  <p align="center">
-    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?
-    username=harsh21234i&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </p>
+<img src="https://skillicons.dev/icons?i=python,java,bash"/>
 
-  ---
+</p>
 
-  ## Contribution Graph
+## Backend
 
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh21234i&theme=tokyo-
-    night&hide_border=true" alt="Contribution Graph" />
-  </p>
+<p>
 
-  ---
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django"/>
 
-  ## Profile Summary
+</p>
 
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?
-    username=harsh21234i&theme=tokyonight" alt="Profile Summary" />
-  </p>
+## Databases
 
-  <p align="center">
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?
-    username=harsh21234i&theme=tokyonight" alt="Repos Per Language" />
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?
-    username=harsh21234i&theme=tokyonight" alt="Most Commit Language" />
-  </p>
+<p>
 
-  ---
+<img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
 
-  ## Project Spotlight
+</p>
 
-  ### MoveSaathi
+## DevOps & Tools
 
-  Backend platform for logistics, ride planning, and shared mobility workflows.
+<p>
 
-  - FastAPI-based backend
-  - Database-driven architecture
-  - Modular service design
-  - Built for real-world execution flow
-  - Focused on clean engineering and scalability
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode"/>
 
-  **Repository**
-  [https://github.com/harsh21234i/MoveSaathi](https://github.com/harsh21234i/MoveSaathi)
+</p>
 
-  ---
+---
 
-  ## Connect
+# 🌍 Open Source
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/harsh-thakare-453ba9229">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/harsh21234i">
-      <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub" />
-    </a>
-    <a href="mailto:harshthakare576@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+I actively contribute to real-world open-source projects.
 
-  ---
+### Contributions include
 
-  <p align="center">
-    <b>Build real systems. Keep shipping.</b>
-  </p>
+- 🐛 Bug Fixes
+- 🚀 Feature Development
+- 📚 Documentation Improvements
+- ⚙ Backend Components
+- 💡 Developer Experience Improvements
+- 🔍 Code Reviews
+
+---
+
+# 🚀 Featured Project
+
+## 🚚 MoveSaathi
+
+Backend platform for logistics and mobility workflows.
+
+### Highlights
+
+- FastAPI Backend
+- PostgreSQL Database
+- REST API Design
+- Authentication
+- Modular Architecture
+- Clean Code Principles
+
+🔗 Repository
+
+https://github.com/harsh21234i/MoveSaathi
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh21234i&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh21234i&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh21234i&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh21234i&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh21234i&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harsh21234i&theme=tokyonight"/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harsh21234i&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=harsh21234i&theme=tokyonight&row=1&column=6&no-frame=true"/>
+
+</div>
+
+---
+
+# 🎯 Goals for 2026
+
+- 🚀 Contribute to more production open-source projects
+- ☁️ Learn Cloud & Distributed Systems
+- 🤖 Build AI-powered backend applications
+- 📦 Develop scalable software products
+- 💼 Grow as a Backend Software Engineer
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:harshthakare576@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/harsh-thakare-453ba9229">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/harsh21234i">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote
+
+> **"Great software is built by solving real problems, not by writing more code."**
+
+⭐ **Thanks for visiting my profile!**
+
+If you like my work, consider following me or checking out my repositories.
+
+</div>
