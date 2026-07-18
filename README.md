@@ -2,8 +2,8 @@
   <h3 align="center">Backend Engineer | Python | FastAPI | Open Source Contributor</h3>
 
   <p align="center">
-    I build scalable backend systems, design clean APIs, and work on software that solves real problems with
-    maintainable engineering.
+    I build scalable backend systems, design clean APIs, and solve real engineering problems with practical,
+    maintainable software.
   </p>
 
   <p align="center">
@@ -22,7 +22,7 @@
   <p align="center">
     <a href="https://github.com/harsh21234i">GitHub</a> |
     <a href="https://www.linkedin.com/in/harsh-thakare-453ba9229">LinkedIn</a> |
-    <a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
+    <a href="mailto:harshthakare576@gmail.com">Email</a>
   </p>
 
   ---
@@ -40,14 +40,7 @@
 
   ---
 
-  ## What I’m Focused On
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Scalable%20APIs-0f172a?style=for-the-badge" alt="Scalable APIs" />
-    <img src="https://img.shields.io/badge/Backend%20Systems-1d4ed8?style=for-the-badge" alt="Backend Systems" />
-    <img src="https://img.shields.io/badge/Open%20Source-15803d?style=for-the-badge" alt="Open Source" />
-    <img src="https://img.shields.io/badge/AI%20Engineering-7c3aed?style=for-the-badge" alt="AI Engineering" />
-  </p>
+  ## What I'm Focused On
 
   - Building production-ready backend applications
   - Designing APIs that are clean, modular, and scalable
@@ -58,10 +51,10 @@
 
   ## Tech Stack
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?
-    i=python,java,fastapi,flask,django,postgres,mongodb,docker,git,github,linux,bash,vscode,postman" alt="Tech Stack" />
-  </p>
+  **Languages:** Python, Java, SQL
+  **Backend:** FastAPI, Flask, Django
+  **Databases:** PostgreSQL, MongoDB
+  **Tools:** Docker, Git, GitHub, Linux, Bash, Postman, VS Code
 
   ---
 
@@ -77,7 +70,7 @@
 
   ## Project Spotlight
 
-  ## MoveSaathi
+  ### MoveSaathi
 
   Backend platform for logistics, ride planning, and shared mobility workflows.
 
@@ -89,15 +82,6 @@
 
   **Repository**
   [https://github.com/harsh21234i/MoveSaathi](https://github.com/harsh21234i/MoveSaathi)
-
-  ---
-
-  ## GitHub Activity
-
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh21234i&theme=tokyo-
-    night&hide_border=true" alt="Contribution Graph" />
-  </p>
 
   ---
 
@@ -122,7 +106,7 @@
       <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub" />
     </a>
-    <a href="mailto:YOUR_EMAIL@gmail.com">
+    <a href="mailto:harshthakare576@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
