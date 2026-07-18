@@ -1,133 +1,174 @@
-<h1 align="center">Harsh Thakare</h1>
-<h3 align="center">Backend Developer | Open Source Contributor | FastAPI and AI Systems</h3>
+<h1 align="center">Hi 👋, I'm Harsh Thakare</h1>
+
+<h3 align="center">
+Backend Engineer • Python • FastAPI • Open Source Contributor
+</h3>
 
 <p align="center">
-  I build backend systems, contribute to open source, and work on practical AI tooling with a focus on clean architecture, scalability, and real-world delivery.
+I build scalable backend systems, contribute to open-source software, and enjoy solving real engineering problems through clean architecture, maintainable code, and practical AI applications.
 </p>
 
 <p align="center">
   <a href="https://github.com/harsh21234i">
-    <img src="https://komarev.com/ghpvc/?username=harsh21234i&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=harsh21234i&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
   <a href="https://github.com/harsh21234i?tab=followers">
-    <img src="https://img.shields.io/github/followers/harsh21234i?label=Followers&style=flat&color=1f6feb" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/harsh21234i?label=Followers&style=flat&color=1f6feb" alt="Followers"/>
   </a>
-  <a href="https://github.com/harsh21234i?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-17-161b22?style=flat&logo=github" alt="Repositories" />
+  <a href="https://github.com/harsh21234i">
+    <img src="https://img.shields.io/github/stars/harsh21234i?affiliations=OWNER&style=flat&color=f39c12" alt="Stars"/>
   </a>
 </p>
-
----
-
-## GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsh21234i&theme=onedark&no-frame=true&margin-w=5&margin-h=5&row=1" alt="GitHub trophies" />
+  <a href="https://github.com/harsh21234i">
+    <img src="https://github-profile-trophy.vercel.app/?username=harsh21234i&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 ---
+
+# 👨‍💻 About Me
+
+I'm a Backend Engineer passionate about designing scalable APIs, developer tools, and AI-powered applications. I enjoy contributing to open-source software, learning from production codebases, and continuously improving my engineering skills.
+
+- 🔭 Currently building **MoveSaathi**
+- 🌱 Learning **System Design**, **Cloud**, and **AI Engineering**
+- 💻 Focused on **Backend Development**
+- 🤝 Active **Open Source Contributor**
+- 🚀 Interested in Backend Infrastructure, AI Systems & Developer Tools
+- ⚡ Love solving real engineering problems
+
+---
+
+# 🚀 Current Focus
+
+- 🔨 Building production-ready backend applications
+- 🌍 Contributing to open-source projects
+- 📖 Improving distributed systems knowledge
+- 🧠 Learning scalable architecture patterns
+- 💼 Open to Backend Software Engineer opportunities
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harsh-thakare-453ba9229">LinkedIn</a> |
-  <a href="https://github.com/harsh21234i">GitHub</a> |
-  <a href="https://github.com/harsh21234i/MoveSaathi">MoveSaathi</a>
+
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,flask,django,postgres,mongodb,docker,git,github,linux,bash,vscode,postman" />
+
 </p>
 
 ---
 
-## About
-
-- Backend developer focused on APIs, workflow systems, and production-grade engineering
-- Building **MoveSaathi**, a backend platform for delivery and mobility workflows
-- Interested in **AI/ML systems**, **developer tooling**, and **scalable service design**
+# 🌟 Open Source Contributions
 
 ### Highlights
 
-- GitHub achievements: **Pull Shark** and **Pair Extraordinaire**
-- Public profile tagline: backend developer building FastAPI-based systems
-- Focused on practical engineering over portfolio-only projects
+- 🚀 50+ Pull Requests merged
+- 🌍 Contributions across multiple open-source repositories
+- 🛠 Bug fixes and feature implementations
+- 📚 Documentation improvements
+- 🤝 Collaborated with maintainers through code reviews
+- 💡 Experience working with production-grade codebases
 
 ---
 
-## Current Work
+# 🚚 Featured Project
 
-- Contributing fixes and improvements to open source repositories
-- Building backend services with an emphasis on reliability and maintainability
-- Learning from real codebases, reviews, and production constraints
+## MoveSaathi
+
+Backend platform designed for logistics, ride planning, and shared mobility workflows.
+
+### Key Features
+
+- REST APIs with FastAPI
+- Authentication & Authorization
+- Database Integration
+- Modular Architecture
+- Clean Code Principles
+- Scalable Backend Design
+
+🔗 Repository
+
+**https://github.com/harsh21234i/MoveSaathi**
 
 ---
 
-## Tech Stack
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,fastapi,flask,postgres,mongodb,docker,git,linux" alt="Tech stack" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh21234i&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh21234i&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-0a66c2?style=flat" alt="Backend Engineering" />
-  <img src="https://img.shields.io/badge/Open%20Source-Active-1f883d?style=flat" alt="Open Source" />
-  <img src="https://img.shields.io/badge/AI%2FML-Systems-7c3aed?style=flat" alt="AI ML Systems" />
-</p>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh21234i&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## Open Source Highlights
-
-- **50+ pull requests** across open source projects
-- Contributions across **10+ repositories**
-
-
-
----
-
-## Featured Project
-
-### MoveSaathi
-
-Backend system for logistics, ride planning, and shared mobility flows.
-
-- Built with a backend-first approach
-- Focused on scalability, API design, and real-world execution flows
-- Developed with **FastAPI** and database-backed services
-- Repository: [harsh21234i/MoveSaathi](https://github.com/harsh21234i/MoveSaathi)
-
----
-
-## What I Value
-
-- Shipping code that solves real problems
-- Learning through open source reviews and production constraints
-- Writing backend systems that stay maintainable as they grow
-
----
-
-## GitHub Snapshot
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh21234i&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harsh21234i&theme=tokyonight&utcOffset=5.5" alt="Productive time" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh21234i&theme=tokyonight" alt="Profile summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harsh21234i&theme=tokyonight" alt="Top languages by repo" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harsh21234i&theme=tokyonight" alt="Top languages by commits" height="170" />
 </p>
 
 ---
 
-## Contribution Snapshot
+# 📈 Contribution Graph
 
-- **145+ total contributions**
-- **50+ PRs merged**
-- **10+ repositories contributed**
-- **17 public repositories** on GitHub
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh21234i&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
-## Philosophy
+# 📌 GitHub Summary
 
-> Build real systems. Contribute to real code. Keep improving.
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh21234i&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harsh21234i&theme=tokyonight"/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harsh21234i&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/harsh-thakare-453ba9229">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/harsh21234i">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💬 Favorite Quote
+
+> **"Code is not just written to work today — it's written to be understood, maintained, and improved tomorrow."**
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider following me or checking out my repositories.
+
+</p>
