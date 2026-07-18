@@ -15,22 +15,25 @@
       <img src="https://img.shields.io/github/followers/harsh21234i?label=Followers&style=flat&color=1f6feb"
       alt="Followers" />
     </a>
-    <img src="https://img.shields.io/badge/Backend-Engineer-0a66c2?style=flat" alt="Backend Engineer" />
-    <img src="https://img.shields.io/badge/Open%20Source-Active-198754?style=flat" alt="Open Source" />
+    <a href="mailto:harshthakare576@gmail.com">
+      <img src="https://img.shields.io/badge/Email-harshthakare576%40gmail.com-D14836?
+      style=flat&logo=gmail&logoColor=white" alt="Email" />
+    </a>
   </p>
 
   <p align="center">
-    <a href="https://github.com/harsh21234i">GitHub</a> |
-    <a href="https://www.linkedin.com/in/harsh-thakare-453ba9229">LinkedIn</a> |
-    <a href="mailto:harshthakare576@gmail.com">Email</a>
+    <a href="https://github.com/harsh21234i">
+      <img src="https://readme-typing-svg.herokuapp.com?
+      font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Backend+Engineer;FastAPI+
+      %7C+Python+%7C+System+Design;Open+Source+Contributor;Building+Real+Systems" alt="Typing SVG" />
+    </a>
   </p>
 
   ---
 
   ## About Me
 
-  I'm a backend engineer focused on building reliable systems, scalable APIs, and practical software products. I enjoy
-  working on real engineering problems, contributing to open source, and improving through production-level development.
+  I'm a backend engineer focused on building reliable systems, scalable APIs, and practical software products.
 
   - Building **MoveSaathi**
   - Working with **Python**, **FastAPI**, and backend architecture
@@ -40,31 +43,66 @@
 
   ---
 
-  ## What I'm Focused On
+  ## Current Focus
 
   - Building production-ready backend applications
-  - Designing APIs that are clean, modular, and scalable
-  - Learning distributed systems and strong engineering fundamentals
+  - Designing clean and scalable APIs
+  - Learning distributed systems and architecture patterns
   - Exploring practical AI integrations in software products
 
   ---
 
   ## Tech Stack
 
-  **Languages:** Python, Java, SQL
-  **Backend:** FastAPI, Flask, Django
-  **Databases:** PostgreSQL, MongoDB
-  **Tools:** Docker, Git, GitHub, Linux, Bash, Postman, VS Code
+  <p align="center">
+    <img src="https://skillicons.dev/icons?
+    i=python,java,fastapi,flask,django,postgres,mongodb,docker,git,github,linux,bash,vscode,postman" alt="Tech Stack" />
+  </p>
 
   ---
 
-  ## Experience Snapshot
+  ## GitHub Stats
 
-  - Backend-focused engineering mindset
-  - Strong interest in scalable architectures and service design
-  - Open-source contributor with hands-on project experience
-  - Comfortable building maintainable APIs and modular backend systems
-  - Always learning through shipping, debugging, and improving real code
+  <p align="center">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?
+    username=harsh21234i&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?
+    user=harsh21234i&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
+
+  ---
+
+  ## Languages
+
+  <p align="center">
+    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?
+    username=harsh21234i&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </p>
+
+  ---
+
+  ## Contribution Graph
+
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh21234i&theme=tokyo-
+    night&hide_border=true" alt="Contribution Graph" />
+  </p>
+
+  ---
+
+  ## Profile Summary
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?
+    username=harsh21234i&theme=tokyonight" alt="Profile Summary" />
+  </p>
+
+  <p align="center">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?
+    username=harsh21234i&theme=tokyonight" alt="Repos Per Language" />
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?
+    username=harsh21234i&theme=tokyonight" alt="Most Commit Language" />
+  </p>
 
   ---
 
@@ -82,16 +120,6 @@
 
   **Repository**
   [https://github.com/harsh21234i/MoveSaathi](https://github.com/harsh21234i/MoveSaathi)
-
-  ---
-
-  ## Work Style
-
-  - Build real things
-  - Keep systems simple and maintainable
-  - Prefer clarity over unnecessary complexity
-  - Write code that can scale and survive change
-  - Improve continuously through real work
 
   ---
 
