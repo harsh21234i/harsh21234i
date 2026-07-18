@@ -1,9 +1,9 @@
-<h1 align="center">Harsh Thakare</h1>
-  <h3 align="center">Backend Engineer | Python | FastAPI | Open Source Contributor</h3>
+
+  <h1 align="center">Harsh Thakare</h1>
+  <h3 align="center">Backend Engineer | Python | FastAPI | Open Source</h3>
 
   <p align="center">
-    I build scalable backend systems, contribute to open source, and enjoy solving real engineering problems through
-    clean architecture, maintainable code, and practical AI applications.
+    I build backend systems that scale, APIs that stay maintainable, and software that solves real problems.
   </p>
 
   <p align="center">
@@ -15,43 +15,40 @@
       <img src="https://img.shields.io/github/followers/harsh21234i?label=Followers&style=flat&color=1f6feb"
       alt="Followers" />
     </a>
-    <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-0a66c2?style=flat" alt="Backend Engineering" />
-    <img src="https://img.shields.io/badge/Open%20Source-Active-1f883d?style=flat" alt="Open Source" />
+    <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-111827?style=flat" alt="Focus" />
   </p>
 
   <p align="center">
-    <a href="https://github.com/harsh21234i">GitHub</a> •
-    <a href="https://github.com/harsh21234i?tab=repositories">Projects</a> •
-    <a href="https://www.linkedin.com/in/harsh-thakare-453ba9229">LinkedIn</a>
+    <a href="https://github.com/harsh21234i">GitHub</a> |
+    <a href="https://www.linkedin.com/in/harsh-thakare-453ba9229">LinkedIn</a> |
+    <a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
   </p>
 
   ---
 
-  ## About Me
+  ## About
 
-  I'm a backend engineer focused on building reliable APIs, scalable systems, and practical developer-friendly
-  solutions. I enjoy working on real products, contributing to open-source projects, and learning from production-grade
-  codebases.
+  Backend engineer focused on building reliable services, clean APIs, and practical systems.
 
   - Building **MoveSaathi**
-  - Focused on **Backend Development**, **System Design**, and **AI Engineering**
-  - Interested in **Backend Infrastructure**, **Developer Tools**, and **Scalable Architectures**
-  - Active **Open Source Contributor**
-  - Strong preference for **clean code**, **maintainable systems**, and **real-world problem solving**
+  - Working with **Python**, **FastAPI**, and backend architecture
+  - Interested in **system design**, **AI engineering**, and **developer tooling**
+  - Active in **open source**
+  - Prefer simple solutions, clean code, and real product work
 
   ---
 
-  ## Current Focus
+  ## Focus
 
-  - Building production-ready backend applications
-  - Designing clean and scalable API architectures
-  - Contributing to open-source software
-  - Improving knowledge of distributed systems and cloud fundamentals
-  - Exploring practical AI integrations in backend products
+  - Production-ready backend development
+  - Scalable API design
+  - Maintainable architecture
+  - Open-source contributions
+  - Practical AI integrations
 
   ---
 
-  ## Tech Stack
+  ## Stack
 
   <p align="center">
     <img src="https://skillicons.dev/icons?
@@ -60,98 +57,49 @@
 
   ---
 
-  ## Open Source Contributions
-
-  ### Highlights
-
-  - **50+ pull requests merged**
-  - Contributions across multiple open-source repositories
-  - Bug fixes, backend improvements, and documentation updates
-  - Experience collaborating with maintainers through code reviews
-  - Exposure to production-grade codebases and engineering practices
-
-  ### Featured Contributions
-
-  - **Giskard**: [PR #2411](https://github.com/Giskard-AI/giskard-oss/pull/2411)
-  - **Giskard**: [PR #2409](https://github.com/Giskard-AI/giskard-oss/pull/2409)
-
-  ---
-
-  ## Featured Project
+  ## Project
 
   ### MoveSaathi
 
-  Backend platform designed for logistics, ride planning, and shared mobility workflows.
+  Backend platform for logistics, ride planning, and shared mobility workflows.
 
-  #### Key Areas
+  - FastAPI-based backend
+  - Database-driven architecture
+  - Modular design
+  - Built for real-world execution flow
 
-  - REST APIs with **FastAPI**
-  - Authentication and authorization
-  - Database integration
-  - Modular backend architecture
-  - Scalable service design
-  - Clean and maintainable code practices
-
-  **Repository:**
-  [github.com/harsh21234i/MoveSaathi](https://github.com/harsh21234i/MoveSaathi)
+  **Repository**
+  [https://github.com/harsh21234i/MoveSaathi](https://github.com/harsh21234i/MoveSaathi)
 
   ---
 
-  ## GitHub Snapshot
+  ## Work Style
 
-  <p align="center">
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?
-    user=harsh21234i&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?
-    username=harsh21234i&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?
-    username=harsh21234i&theme=tokyonight" alt="GitHub Summary" />
-  </p>
-
-  <p align="center">
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?
-    username=harsh21234i&theme=tokyonight" alt="Top Languages by Repository" />
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?
-    username=harsh21234i&theme=tokyonight" alt="Top Languages by Commits" />
-  </p>
+  - Build real things
+  - Keep systems clean
+  - Optimize for clarity
+  - Ship consistently
 
   ---
 
-  ## Working Style
-
-  - Build systems that solve real problems
-  - Prefer clarity over unnecessary complexity
-  - Write code that is easy to maintain and extend
-  - Learn continuously through building, reviewing, and contributing
-
-  ---
-
-  ## Let's Connect
+  ## Connect
 
   <p align="center">
     <a href="https://www.linkedin.com/in/harsh-thakare-453ba9229">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn" />
     </a>
     <a href="https://github.com/harsh21234i">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub" />
     </a>
-    <a href="mailto:YOUR_EMAIL@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <a href="mailto:harshthakare576@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
   ---
 
-  ## Philosophy
-
-  > Code should not only work today. It should remain understandable, maintainable, and useful tomorrow.
-
-  Two fixes you should make before pasting:
-
-  - Replace YOUR_EMAIL@gmail.com
-  - If any stat card fails on GitHub, remove that one card only, not the whole section
+  <p align="center">
+    <b>Build real things. Keep shipping.</b>
+  </p>
