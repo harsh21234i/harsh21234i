@@ -109,8 +109,7 @@ Backend platform for logistics and mobility workflows.
 
 🔗 Repository
 
-https://github.com/harsh21234i/MoveSaathi
-
+https://github.com/harsh21234i/movesaathi-backend
 ---
 
 # 📈 GitHub Statistics
